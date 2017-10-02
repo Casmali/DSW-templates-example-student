@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
-{% block title%}Page 1{% endblock %}
-{% block content%}
+{% block title %}Page 1{% endblock %}
+{% block conten t%}
 <!-- page content -->
 <h1>Page 1</h1>
 {% endblock %}
